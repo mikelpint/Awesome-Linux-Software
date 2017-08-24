@@ -914,5 +914,5 @@ Esta obra está licenciada bajo la licencia [Creative Commons Attribution 4.0 In
 Una cerveza en tu país puede comprar un almuerzo en el mío.
 
 [chitchat]: https://github.com/stonesam92/ChitChat
-[Iconos del OSS]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[Icono del Freeware]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
