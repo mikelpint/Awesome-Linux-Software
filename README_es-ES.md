@@ -7,7 +7,7 @@
 ![Tux](img/tux.png)
 
 
-🐧 Este repositorio es una collección **INCREÍBLE** de utilidades y aplicaciones para Linux para **todo tipo de usuarios y desarrolladores**.
+🐧 Este repositorio es una colección **INCREÍBLE** de utilidades y aplicaciones para Linux para **todo tipo de usuarios y desarrolladores**.
 <br>
 🐧 Siéntete libre de **contribuir** / **darle una estrella** / **bifucar** / **hacer solicitudes para incluir cambios (pull request)** a este repositorio. Todas las **recomendaciones** o **sugerencias** son bienvenidas.
 
