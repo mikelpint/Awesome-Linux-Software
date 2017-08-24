@@ -13,7 +13,7 @@
 
 *Actualización: Este repositorio a sido publicado en  [Gitbook](https://voluong.gitbooks.io/awesome-linux-software/content/). Deberías compartir este enlace a los nuevos usuarios ya que lo encontrarán más intuitivo que en GitHub. Descargalo como PDF (en inglés de momento) [aquí](https://goo.gl/xhiKla).*
 
-**Conocimientos:** *Todo los conocimientos que están abajo los he adquirido por mi experiencia académica  y después de leer bastante. No soy ningún experto o profesional, sino un estudiante con una gran pasión por lo que hace. Cualquiera puede abrir un hilo/discusión en la sección de problemas (issues), hacer "un pull request" en caso de que algo deba ser añadido o modificado. Si consideras que mi trabajo vale, una [donación](#donation) es más que agradecida.*
+**Conocimientos:** *Todo los conocimientos que están abajo los he adquirido por mi experiencia académica  y después de leer bastante. No soy ningún experto o profesional, sino un estudiante con una gran pasión por lo que hace. Cualquiera puede abrir un hilo/discusión en la sección de problemas (issues), hacer "un pull request" en caso de que algo deba ser añadido o modificado. Si consideras que mi trabajo tiene valor, una [donación](#donation) es más que agradecida.*
 
 Dos versiones chinas de esta lista están disponibles [aquí](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) y [aquí(actualizada más tarde)](https://github.com/0xE8551CCB/awesome-linux-software-cn).
 
