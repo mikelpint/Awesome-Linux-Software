@@ -55,7 +55,7 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 
 ***********
 
-- [Instalación](#setup)
+- [Instalación](#instalación)
  	- [Arch Linux](#arch-linux)
  	- [CentOS](#centos)
  	- [openSUSE](#opensuse)
@@ -123,33 +123,33 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 - [Spotio](https://github.com/devinhalladay/spotio) - Un tema claro inspirado en Rdio para Spotify. [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) ![Freeware][Freeware Icon]
 - [Tomahawk](https://www.tomahawk-player.org/) -Un nuevo tipo de reproductor que te permite acceder a tus descargas, transmisiones, música almacenada en la nube, listas de reproducción, estaciones de radio y más. [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 
-### Chat Clients
-- [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) ![Freeware][Freeware Icon]
-- [Chatty](http://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) ![Freeware][Freeware Icon]
-- [Cutegram](http://aseman.co/en/products/cutegram/) - Offers more features than the official Telegram app [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) ![Freeware][Freeware Icon]
-- [Dino](https://dino.im) - Clean and modern Jabber/XMPP chat client [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) ![Freeware][Freeware Icon]
-- [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone. ![Freeware][Freeware Icon]
-- [Franz](http://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.![Freeware][Freeware Icon]
-- [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
-- [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) ![Freeware][Freeware Icon]
-- [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
-- [Irssi](https://github.com/irssi/irssi) - Irssi is a modular chat client that is most commonly known for its text mode user interface. [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi) ![Freeware][Freeware Icon]
-- [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
-- [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
-- [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - A universal chat client. ![Freeware][Freeware Icon]
-- [qTox](https://qtox.github.io/) - A simple distributed, secure messenger with audio and video chat capabilities. [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) ![Freeware][Freeware Icon]
-- [Rambox](http://rambox.pro/) - Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
-- [Ring](https://ring.cx/) - Chat. Talk. Share. Ring is a free and universal communication platform which preserves the users' privacy and freedoms. [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106) ![Freeware][Freeware Icon]
-- [Riot](https://riot.im/) - A glossy Matrix collaboration client for the web. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) ![Freeware][Freeware Icon]
-- [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack-client for linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) ![Freeware][Freeware Icon]
-- [Skype](https://www.skype.com/en/) - Skype keeps the world talking, for free. ![Freeware][Freeware Icon]
-- [Slack](https://slack.com/downloads/linux) - real-time messaging, archiving and search for modern teams. ![Freeware][Freeware Icon]
-- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
-- [Viber](https://www.viber.com/en/products/linux) -Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country ![Freeware][Freeware Icon]
-- [Weechat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client .[![Open-Source Software][OSS Icon]](https://github.com/weechat) ![Freeware][Freeware Icon]
-- [Wire](https://wire.com/en/) - Secure communication. Full privacy. [![Open-Source Software][OSS Icon]](https://github.com/wireapp) ![Freeware][Freeware Icon]
+### Clientes de chat
+- [Caprine](https://sindresorhus.com/caprine) - Cliente de escritorio elegante para Facebook Messenger. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) ![Freeware][Freeware Icon]
+- [Chatty](http://chatty.github.io/) - Chatty es un cliente de chat para Twitch para quienes quieren probar algo nuevo y diferente al webchat, pero no quiere la complejidad de un cliente IRC o la falta de las características propias de Twitch.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) ![Freeware][Freeware Icon]
+- [Cutegram](http://aseman.co/en/products/cutegram/) - Ofrece más funciones que la aplicación oficial de Telegram. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) ![Freeware][Freeware Icon]
+- [Dino](https://dino.im) - Un moderno cliente de chat para Jabber y XMPP. [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) ![Freeware][Freeware Icon]
+- [Discord](https://discordapp.com/) - Chat de vídeo y texto todo en uno para gamers que es gratuito, seguro, y funciona tanto en tu ordenador como en tu teléfono. ![Freeware][Freeware Icon]
+- [Franz](http://meetfranz.com/) - Franz es una aplicación de mensajería gratuita que reúne varios servicios de mensajería.![Freeware][Freeware Icon]
+- [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Contenedor web de código abierto para Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
+- [Gitter](https://gitter.im/) - Gitter — Donde los desarrolladores hablan. Gitter está diseñada para crear un chat de comunidad, colaboración y descubrimiento todo lo claro y simple posible. [![Open-Source Software][OSS Icon]](https://github.com/gitterHQ/services) ![Freeware][Freeware Icon]
+- [HexChat](https://hexchat.github.io/) - HexChat es un cliente de IRC basado en XChat, pero al contrario que Xchat es completamente libre y está disponible para Windows y para Linux.[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
+- [Irssi](https://github.com/irssi/irssi) - Irssi es un cliente de chat conocido por su interfaz basada en texto. [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi) ![Freeware][Freeware Icon]
+- [Jitsi](https://jitsi.org/) - Jitsi es una aplicación libre para voz, videoconferencias y mensajería instantanea para Windows, Linux, macOS y Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
+- [Messenger for Desktop](https://messengerfordesktop.com/#download) - Una aplicación para Facebook Messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
+- [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - Un cliente de chat universal. ![Freeware][Freeware Icon]
+- [qTox](https://qtox.github.io/) - Una aplicación de mensajería segura con capacidades de chat de audio y de vídeo. [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) ![Freeware][Freeware Icon]
+- [Rambox](http://rambox.pro/) - Una aplicación de mensajería y correo electrónico multiplataforma y de código abierto que combina aplicaciones web comunes en una sola. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
+- [Ring](https://ring.cx/) - Chatea. Habla. Comparte. Ring es una plataforma libre de mensajería que conserva la libertad y privacidad de los usuarios. [![Open-Source Software][OSS Icon]](https://ring.cx/en/documentation/faq#node-106) ![Freeware][Freeware Icon]
+- [Riot](https://riot.im/) - Un cliente de mensajería para la web que usa Matrix. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) ![Freeware][Freeware Icon]
+- [ScudCloud](https://github.com/raelgc/scudcloud/) - Un cliente de Slack para Linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) ![Freeware][Freeware Icon]
+- [Skype](https://www.skype.com/en/) - Skype es un servicio de mensajería y chat de vídeo y audio creado por Microsoft. ![Freeware][Freeware Icon]
+- [Slack](https://slack.com/downloads/linux) - Mensajería en tiempo real, archivamiento y búsqueda para equipos modernos. ![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) -Una aplicación de mensajería de código abierto, muy rápida y simple que se centra en la mensajería segura y rápida.  [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
+- [Viber](https://www.viber.com/en/products/linux) -Viber te permite enviar mensajes a otros usuarios desde cualquier dispositivo, país y red de forma gratutia. ![Freeware][Freeware Icon]
+- [Weechat](https://weechat.org/) - WeeChat es un cliente de chat rápido, ligero y personalizable. [![Open-Source Software][OSS Icon]](https://github.com/weechat) ![Freeware][Freeware Icon]
+- [Wire](https://wire.com/en/) - Comunicación segura. Privacidad completa. [![Open-Source Software][OSS Icon]](https://github.com/wireapp) ![Freeware][Freeware Icon]
 
-### Data Backup and Recovery
+### Copias de seguridad y restauración
 - [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
 - [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - A simple backup tool with built-in encryption [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup)![Freeware][Freeware Icon]
 - [Duplicity](http://duplicity.nongnu.org/) - Duplicity backs directories by producing encrypted tar-format volumes and uploading them to a remote or local file server.[![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) ![Freeware][Freeware Icon]
