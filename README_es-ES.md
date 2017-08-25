@@ -1,6 +1,9 @@
+<meta charset=utf-8>
+
 # Software increíble para Linux
 
-**Nota:** La gran mayoría de estos enlaces están en inglés.
+**Nota:** Todos los enlaces están escritos en inglés. Además, al pulsar el enlace de una sección cuyo nombre esté acentuado este se mostrará en inglés; esto es debido a que Markdown y HTML no soportan los carácteres latinos en los enlaces.
+
 
 [![Increíble](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
 
@@ -15,62 +18,62 @@
 
 **Conocimientos:** *Todo los conocimientos que están abajo los he adquirido por mi experiencia académica  y después de leer bastante. No soy ningún experto o profesional, sino un estudiante con una gran pasión por lo que hace. Cualquiera puede abrir un hilo/discusión en la sección de problemas (issues), hacer "un pull request" en caso de que algo deba ser añadido o modificado. Si consideras que mi trabajo tiene valor, una [donación](#donation) es más que agradecida.*
 
-Dos versiones chinas de esta lista están disponibles [aquí](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) y [aquí(actualizada más tarde)](https://github.com/0xE8551CCB/awesome-linux-software-cn).
+Dos versiones chinas de esta lista están disponibles [aquí](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) y [aquí (actualizada más tarde)](https://github.com/0xE8551CCB/awesome-linux-software-cn).
 
 ## Tabla de contenidos
 
-- [Aplicaciones](#applications)
+- [Aplicaciones](#aplicaciones)
     - [Audio](#audio)
-    - [Clentes de chat](#chat-clients)
-    - [Copias de seguridad y restauración](#data-backup-and-recovery)
+    - [Clientes de chat](#clientes-de-chat)
+    - [Copias de seguridad y restauración](#backups-and-recovery)
     - [Personalización del escritorio](#desktop-customization)
-    - [Desarrollo](#development)
-    - [Utilidades para libros electrónicos](#e-book-utilities)
-    - [Editores](#editors)
+    - [Desarrollo](#desarrollo)
+    - [Utilidades para libros electrónicos](#ebooks-utilities)
+    - [Editores](#editores)
     - [Educación](#education)
-    - [Utilidades para correo electrónico](#email)
-    - [Gestores de archivos](#file-manager)
-    - [Juegos](#games)
+    - [Utilidades para correo electrónico](#email-utilities)
+    - [Gestores de archivos](#gestores-de-archivos)
+    - [Juegos](#juegos)
     - [Gráficos](#graphics)
     - [Internet](#internet)
     - [Ofirmática](#office)
-    - [Productividad](#productivity)
+    - [Productividad](#productividad)
     - [Proxy](#proxy)
-    - [Seguridad](#security)
-    - [Compartir archivos](#sharing-files)
-    - [Emuladores de terminal](#terminal)
-    - [Utilidades](#utilities)
-    - [Vídeo](#video)
-    - [Otros](#others)
-- [Utilidades de línea de comandos](#command-line-utilities)
-- [Entornos de escritorio](#desktop-environments)
-- [Gestores de inicio de sesión](#display-manager)
-	- [Consola](#console)
-	- [Gráficos](#graphic)
-- [Gestores de ventanas](#window-managers)
-	- [Compositores](#compositors)
-	- [Gestores de ventanas superpuestos](#stacking-window-managers)
-	- [Gestores de ventanas tipo mosaico](#tiling-window-managers)
+    - [Seguridad](#seguridad)
+    - [Compartir archivos](#compartir-archivos)
+    - [Emuladores de terminal](#emuladores-de-terminal)
+    - [Utilidades](#utilidades)
+    - [Vídeo](#vídeo)
+    - [Otros](#otros)
+- [Utilidades de línea de comandos](#comand-line-utilities)
+- [Entornos de escritorio](#entornos-de-escritorio)
+- [Gestores de inicio de sesión](#display-managers)
+	- [Consola](#consola)
+	- [Gráficos](#graphical)
+- [Gestores de ventanas](#gestores-de-ventanas)
+	- [Compositores](#compositores)
+    - [Gestores de ventanas superpuestos](#gestores-de-ventanas-superpuestos)
+	- [Gestores de ventanas tipo mosaico](#gestores-de-ventanas-tipo-mosaico)
 	- [Gestores de ventanas dinámicos](#dynamic-window-managers)
 
 ***********
 
-- [Instalación](#instalación)
+- [Instalación](#setup)
  	- [Arch Linux](#arch-linux)
  	- [CentOS](#centos)
  	- [openSUSE](#opensuse)
 	- [Ubuntu](#ubuntu)
-- [Foros](#discussion-forums)
-    - [Foros de Arch Linux](#arch-linux-forums)
-    - [Foros de CentOS](#centos-forums)
-    - [Foros de Ubuntu](#ubuntu-forums)
-    - [Foros de openSUSE](#opensuse-forums)
-    - [Canales de IRC](#irc-channels)
-    - [Noticias de Linux, Aplicaciones y más](#linux-news-apps-and-more-)
+- [Foros](#foros)
+    - [Foros de Arch Linux](#foros-de-arch-linux)
+    - [Foros de CentOS](#foros-de-centos)
+    - [Foros de Ubuntu](#foros-de-ubuntu)
+    - [Foros de openSUSE](#foros-de-opensuse)
+    - [Canales de IRC](#canales-de-irc)
+    - [Noticias de Linux, aplicaciones y más](#linux-news-applications-and-more)
     - [Reddit](#reddit)
-- [Aprender Linux](#learn-linux)
-- [Desarrolo/hacking de Linux](#linux-hackingdevelopment)
-- [Contribuidores](#contributors)
+- [Aprender Linux](#aprender-linux)
+- [Desarrolo y hacking de Linux](#desarrollo-y-hacking-de-linux)
+- [Contribuidores](#contribuidores)
 - [Guía para contribuir](#guideline-to-contribute)
 
 ***********
@@ -84,10 +87,10 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 
 
 
-## Applications
+## Applicaciones
 
 ### Audio
-- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime es el software de código abierto para manejar máquinas remotas. [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
+- [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime es el software de código abierto para manejar estaciones de radio remotas. [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
 - [Ardour](https://ardour.org/) - Graba, edita y mezcla en Linux. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://ardour.org/development.html)
 - [Audacious](http://audacious-media-player.org/) - Un reproductor de audio de código abierto, reproduce tu música como quieras, sin gastar recursos que son para otras tareas.[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) ![Freeware][Freeware Icon]
 - [Audacity](http://www.audacityteam.org/download/linux/) - Software gratuito y de código abierto para grabar y editar audio en Linux. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
@@ -150,39 +153,39 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 - [Wire](https://wire.com/en/) - Comunicación segura. Privacidad completa. [![Open-Source Software][OSS Icon]](https://github.com/wireapp) ![Freeware][Freeware Icon]
 
 ### Copias de seguridad y restauración
-- [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
-- [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - A simple backup tool with built-in encryption [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup)![Freeware][Freeware Icon]
-- [Duplicity](http://duplicity.nongnu.org/) - Duplicity backs directories by producing encrypted tar-format volumes and uploading them to a remote or local file server.[![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) ![Freeware][Freeware Icon]
-- [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec is file data recovery software designed to recover lost files including video, documents and archives from hard disks, CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory. ![Freeware][Freeware Icon]
-- [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver is a GUI for the program fsarchiver to save/restore partitions, folders and MBR/GPT. The program is for systems based Debian, for Suse and Fedora. [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/) ![Freeware][Freeware Icon]
-- [rclone](http://rclone.org/) - Rclone is a command line program to sync files and directories to and from various cloud storage solutions. It also allows encrypted backups.[![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone) ![Freeware][Freeware Icon]
-- [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash. ![Freeware][Freeware Icon]
-- [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software. ![Freeware][Freeware Icon]
-- [Timeshift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs.![Freeware][Freeware Icon]
+- [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - Una buena herramienta para copias de seguridad y restauraciones..[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
+- [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - Una herramienta para copias de seguridad con encriptación integrada. [![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup)![Freeware][Freeware Icon]
+- [Duplicity](http://duplicity.nongnu.org/) - Duplicity respalda directorios produciendo volúmenes tar encriptados y subiéndolos a un servidor remoto o a uno local.[![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) ![Freeware][Freeware Icon]
+- [Photorec](http://www.cgseguridad.org/wiki/PhotoRec) - PhotoRec es un software diseñado para recuperar archivos multimedia de CD-ROMs, discos duros y tarjetas de memoria. ![Freeware][Freeware Icon]
+- [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver es una interfaz gráfica para el programa fsarchiver que sirve para guardar y restaurar particiones, carpetas y MBR/GPT. Este programa está disponible en sistemas Fedora, SUSE, Debian y Arch Linux (a través de AUR). [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/) ![Freeware][Freeware Icon]
+- [rclone](http://rclone.org/) - Rclone es un programa de línea de comandos para sincronizar archivos. También soporta copias de seguridad encriptadas. [![Open-Source Software][OSS Icon]](https://github.com/ncw/rclone) ![Freeware][Freeware Icon]
+- [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - System Rescue CD es una distribución GNU/Linux para reparar o administrar sistemas. ![Freeware][Freeware Icon]
+- [Test Disk](http://www.cgseguridad.org/wiki/TestDisk) - Test Disk es un software gratuito que permite recuperar datos y reparar sistemas que no inician. ![Freeware][Freeware Icon]
+- [Timeshift](https://launchpad.net/timeshift) - Timeshift es un software que saca instantáneas del sistema y usa rsync y enlaces duros para sincronizar los datos .![Freeware][Freeware Icon]
 
-### Desktop customization
-- [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-- [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - A modern icon theme which should be used with Moka Icon Theme. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-- [Arc Theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-- [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - The OpenCompositing Project brings 3D desktop visual effects that improve usability of the X Window System and provide increased productivity.![Freeware][Freeware Icon]
-- [Conky](https://github.com/brndnmtthws/conky) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)![Freeware][Freeware Icon]
-- [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) ![Freeware][Freeware Icon]
-- [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - My favourite theme for ubuntu.[![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)![Freeware][Freeware Icon]
-- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-- [Gnome Extensions](http://extensions.gnome.org/) - Extensions for the Gnome Desktop Environment. ![Freeware][Freeware Icon]
-- [Gnome Look](https://www.gnome-look.org/) - Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your Gnome desktop environment, all located in one website.![Freeware][Freeware Icon]
-- [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - this script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray) ![Freeware][Freeware Icon]
+### Personalización del escritorio
+- [Adapta Theme](https://github.com/tista500/Adapta) - Un tema para GTK+ basado en las guías de diseño de Material Design. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - Un tema de iconos moderno. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Arc Theme](https://github.com/horst3180/arc-theme) - Un tema plano con elementos transparentes. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - El proyecto OpenComposting incluye efectos visuales 3D para el escritorio que aumentan la usabilidad del sistema de ventanas X y proporciona una productividad mayor.![Freeware][Freeware Icon]
+- [Conky](https://github.com/brndnmtthws/conky) - Conky es un monitor libre y ligero para X que muestra todo tipo de información sobre el equipo. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)![Freeware][Freeware Icon]
+- [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop es un tema moderno contruido para Solus. Está diseñado para hacer un uso mínimo de las sombras y ser minimalista. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) ![Freeware][Freeware Icon]
+- [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - Mi tema favorito para Ubuntu.[![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)![Freeware][Freeware Icon]
+- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - Un tema plano para Ubuntu y otros sistemas que usen GNOME. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Gnome Extensions](http://extensions.gnome.org/) - Extensiones para el entorno de escritorio GNOME. ![Freeware][Freeware Icon]
+- [Gnome Look](https://www.gnome-look.org/) - Un sitio en el que puedes encontrar todo tipo de creaciones que cambian el aspecto de GNOME.![Freeware][Freeware Icon]
+- [Hardcode Tray](https://github.com/bil-elmoussaoui/Hardcode-Tray) - Un script que arregla los iconos con errores. Sólo soporta los temas Numix y Papirus. [![Open-Source Software][OSS Icon]](https://github.com/bil-elmoussaoui/Hardcode-Tray) ![Freeware][Freeware Icon]
 - [Irradiance Theme](https://github.com/bsundman/Irradiance) - A Unity theme inspired by OSX Yosemite based on Radiance.[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)![Freeware][Freeware Icon]
 - [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
 - [Macbuntu](http://www.noobslab.com/2016/04/macbuntu-1604-transformation-pack-for.html) - A transformation pack for making your desktop look like a macOS. ![Freeware][Freeware Icon]
-- [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - One of the best icon theme for ubuntu linux.[![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) ![Freeware][Freeware Icon]
-- [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - A good popular theme. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) ![Freeware][Freeware Icon]
-- [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes ...) and other modifications. The theme is available for GTK and KDE. [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) ![Freeware][Freeware Icon]
-- [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Must-have app for ubuntu unity customization. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
-- [Wpgtk](https:github.com/deviantfero/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
-- [Yosembiance theme](https://github.com/bsundman/Yosembiance) - A modified Ambiance theme (loosely) inspired by OSX Yosemite. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) ![Freeware][Freeware Icon]
+- [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - Uno de los mejores temas para Linux.[![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) ![Freeware][Freeware Icon]
+- [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - Un tema bueno y popular. [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) ![Freeware][Freeware Icon]
+- [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) - Tema para GTK y KDE. Está basado en Paper pero tiene características extras.[![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) ![Freeware][Freeware Icon]
+- [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) - Aplicación para la customización de Unity. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
+- [Wpgtk](https:github.com/deviantfero/wpgtk) - Un software para cambiar temas en GTK2, GTK+, Tint2 y Openbox.
+- [Yosembiance theme](https://github.com/bsundman/Yosembiance) - Un tema basado en Ambiance que se inspira en macOS. [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) ![Freeware][Freeware Icon]
 
-### Development
+### Desarrollo
 - [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system.[![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) ![Freeware][Freeware Icon]
 - [Android studio](https://developer.android.com/studio/index.html) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.![Freeware][Freeware Icon]
 - [AppImage](http://appimage.org/) - A format and tools to distribute Linux desktop applications to users of many distributions. [![Open-Source Software][OSS Icon]](http://appimage.org/) ![Freeware][Freeware Icon]
@@ -240,7 +243,7 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 - [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
-### E-Book Utilities
+### Utilidades para libros electrónicos
 - [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) ![Freeware][Freeware Icon]
 - [Buka](https://github.com/oguzhaninan/Buka/releases) - EBook Management [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) ![Freeware][Freeware Icon]
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
@@ -259,7 +262,7 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor.[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 - [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer. [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git) ![Freeware][Freeware Icon]
 
-### Editors
+### Editores
 - [Atom](https://atom.io/) - Hackable text editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code.![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
@@ -275,7 +278,7 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 - [Vim](http://www.vim.org/download.php) -Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)![Freeware][Freeware Icon]
 - [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP) and runtimes.![Freeware][Freeware Icon]
 
-### Education
+### Educación
 - [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit. [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime)![Freeware][Freeware Icon]
 - [Celestia](http://celestiaproject.net/) - The free space simulation that lets you explore our universe in three dimensions.[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/files/Celestia-source/1.6.1/celestia-1.6.1.tar.gz/download)![Freeware][Freeware Icon]
 - [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool is a small program for drawing chemical structures on Linux. [![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/blob/master/README.md)![Freeware][Freeware Icon]
@@ -305,7 +308,7 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 - [Tux4Kids](http://tux4kids.alioth.debian.org/) - Tux4Kids develops high-quality software for kids, with the goal of combining fun and learning into an irresistible package. [![Open-Source Software][OSS Icon]](http://tux4kids.alioth.debian.org/dev.php)![Freeware][Freeware Icon]
 - [UGENE](http://ugene.net/) - UGENE is free open-source cross-platform integrated GUI-based bioinformatics software.[![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene)![Freeware][Freeware Icon]
 
-### Email
+### Utilidades para correo electrónico
 - [Claws](http://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.[![Open-Source Software][OSS Icon]](http://git.claws-mail.org/)![Freeware][Freeware Icon]
 - [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. ![Freeware][Freeware Icon]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.![Freeware][Freeware Icon]
@@ -332,7 +335,7 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 - [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Best application launcher on linux.![Freeware][Freeware Icon]
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar is the file manager designed to be the default file manager of Xfce 4.6 It has been designed to be fast and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) ![Freeware][Freeware Icon]
 
-### Games
+### Juegos
 **Warning: This game list may be outdated. Games inside store like Steam are also not included on this list.**
 - [0 A.D](https://play0ad.com/) - Age of Empires like open source RTS game.
 - [Air for Steam](http://airforsteam.com/) - Material design inspired skin for Steam with 3 colour options.
@@ -461,7 +464,7 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 - [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) ![Freeware][Freeware Icon]
 - [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) ![Freeware][Freeware Icon]
 - [Notes](http://www.get-notes.com/) - A clean simple note taking app for linux.[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
-- [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on Security, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) ![Freeware][Freeware Icon]
+- [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus is a different note manager which is focusing on seguridad, Better user interface. Papyrus are trying to provide an easy to use and smart user interface for users. [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) ![Freeware][Freeware Icon]
 - [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.
 - [Plotinus](https://github.com/p-e-w/plotinus) - A searchable command palette in every modern GTK+ application. [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) ![Freeware][Freeware Icon]
 - [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.![Freeware][Freeware Icon]
@@ -488,7 +491,7 @@ Dos versiones chinas de esta lista están disponibles [aquí](https://github.com
 - [ProxyChains](https://github.com/haad/proxychains) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) ![Freeware][Freeware Icon]
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure socks5 proxy, designed to protect your Internet traffic. [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) ![Freeware][Freeware Icon]
 
-### Security
+### Seguridad
 - [ClamAV](https://www.clamav.net/) - Clam Anti Virus ![Freeware][Freeware Icon]
 - [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.![Freeware][Freeware Icon]
 - [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans. [![Open-Source Software][OSS Icon]](https://github.com/firehol/firehol) ![Freeware][Freeware Icon]
@@ -548,7 +551,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.![Freeware][Freeware Icon]
 - [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.![Freeware][Freeware Icon]
 
-### Utilities
+### Utilidades
 - [Actionaz](http://actionaz.org/) - Automation tasks utility for ubuntu/Linux![Freeware][Freeware Icon]
 - [Albert](https://github.com/ManuelSchneid3r/albert/wiki/User-guide#how-to-install-albert) - An awesome application launcher for the Linux desktop [![Open-Source Software][OSS Icon]](https://github.com/ManuelSchneid3r/albert) ![Freeware][Freeware Icon]
 - [Aptik](http://www.teejeetech.in/2014/01/introducing-aptik.html) - A tool for you to organize your Favorite PPAs and manage Packages Easily. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk) ![Freeware][Freeware Icon]
@@ -612,7 +615,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Wormhole](https://github.com/warner/magic-wormhole) - get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely. [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) ![Freeware][Freeware Icon]
 - [Xtreme Download Manager](http://xdman.sourceforge.net/) - A good download manager with fresh UI for linux.[![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) ![Freeware][Freeware Icon]
 
-### Video
+### Vídeo
 - [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.[![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi)![Freeware][Freeware Icon]
 - [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese uses your webcam to take photos and videos, applies fancy special effects and lets you share the fun with others. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese)![Freeware][Freeware Icon]
 - [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc)![Freeware][Freeware Icon]
@@ -623,7 +626,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html)![Freeware][Freeware Icon]
 
-### Others
+### Otros
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
 - [Infinality bundle & fonts](https://bohoomil.com/) - *Pre-note: Infinality is currently not maintained anymore by the creator, if on rolling release operating systems, expect breakage*. Infinality bundle & fonts is an Open Source project aimed at Linux administrators and individual users who are looking for a hassle-free way of improving the quality of font rendering. [![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate) ![Freeware][Freeware Icon]
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - A.I. for everyone. [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) ![Freeware][Freeware Icon]
@@ -666,49 +669,49 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Unity](https://unity.ubuntu.com/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. ![Freeware][Freeware Icon]
 - [Xfce](https://www.xfce.org/) - Xfce embodies the traditional UNIX philosophy of modularity and re-usability. [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) ![Freeware][Freeware Icon]
 
-## Display manager
+## Gestores de inicio de sesión
 
-### Console
-- [CDM](https://github.com/ghost1227/cdm) - Ultra-minimalistic, yet full-featured login manager written in Bash. [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) ![Freeware][Freeware Icon]
-- [Console TDM](https://github.com/dopsi/console-tdm) - Extension for xinit written in pure Bash. [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) ![Freeware][Freeware Icon]
-- [nodm](https://github.com/spanezz/nodm) - Minimalistic display manager for automatic logins. [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) ![Freeware][Freeware Icon]
+### Consola
+- [CDM](https://github.com/ghost1227/cdm) - Gestor de inicio de sesión completo y minimalista. Está escrito en Bash. [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) ![Freeware][Freeware Icon]
+- [Console TDM](https://github.com/dopsi/console-tdm) - Una extensión para xinit escrita en Bash. [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) ![Freeware][Freeware Icon]
+- [nodm](https://github.com/spanezz/nodm) - Gestor de inicio de sesión minimalista para inicios de sesión automáticos. [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) ![Freeware][Freeware Icon]
 
-### Graphic
-- [Entrance](http://enlightenment.org) - An EFL based display manager, highly experimental. [![Open-Source Software][OSS Icon]](https://github.com/tomas/entrance) ![Freeware][Freeware Icon]
-- [GDM](https://wiki.gnome.org/Projects/GDM) - GNOME display manager. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gdm) ![Freeware][Freeware Icon]
-- [KDM](http://www.kde.org) - KDE4 display manager (discontinued). ![Freeware][Freeware Icon]
-- [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - Cross-desktop display manager, can use various front-ends written in any toolkit. [![Open-Source Software][OSS Icon]](https://github.com/davvid/lightdm) ![Freeware][Freeware Icon]
-- [LXDM](http://sourceforge.net/projects/lxdm/) - LXDE display manager. Can be used independent of the LXDE desktop environment. ![Freeware][Freeware Icon]
-- [MDM](https://github.com/linuxmint/mdm) - MDM display manager, used in Linux Mint, a fork of GDM 2. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/mdm) ![Freeware][Freeware Icon]
-- [SDDM](https://github.com/sddm/sddm) - QML-based display manager and successor to KDE4's kdm; recommended for Plasma 5 and LXQt. [![Open-Source Software][OSS Icon]](https://github.com/sddm/sddm) ![Freeware][Freeware Icon]
-- [SLiM](http://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (discontinued) [![Open-Source Software][OSS Icon]](https://github.com/gsingh93/slim-display-manager) ![Freeware][Freeware Icon]
-- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - X display manager with support for XDMCP, host chooser. [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/xdm) ![Freeware][Freeware Icon]
+### Gráficos
+- [Entrance](http://enlightenment.org) - Un gestor de inicio de sesión basado en ELF. Es muy experimental. [![Open-Source Software][OSS Icon]](https://github.com/tomas/entrance) ![Freeware][Freeware Icon]
+- [GDM](https://wiki.gnome.org/Projects/GDM) - El gestor de inicio de sesión de GNOME. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gdm) ![Freeware][Freeware Icon]
+- [KDM](http://www.kde.org) - El gestor de inicio de sesión de KDE4 (descontinuado). ![Freeware][Freeware Icon]
+- [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - Gestor de inicio de sesión multiescritorio. Puede usar interfaces escritas en cualquier toolkit. [![Open-Source Software][OSS Icon]](https://github.com/davvid/lightdm) ![Freeware][Freeware Icon]
+- [LXDM](http://sourceforge.net/projects/lxdm/) - El gestor de inicio de sesión de LXDE. Puede ser usado independientemente de LXDE. ![Freeware][Freeware Icon]
+- [MDM](https://github.com/linuxmint/mdm) - El gestor de inicio de sesión usado en Linux Mint, es un fork de GDM 2. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/mdm) ![Freeware][Freeware Icon]
+- [SDDM](https://github.com/sddm/sddm) - Gestor de inicio de sesión basado en QML y sucesor de KDM; recomendado para KDE Plasma 5 y LXQt. [![Open-Source Software][OSS Icon]](https://github.com/sddm/sddm) ![Freeware][Freeware Icon]
+- [SLiM](http://sourceforge.net/projects/slim.berlios/) - Gestor de inicio de sesión elegante y ligero. (descontinuado). [![Open-Source Software][OSS Icon]](https://github.com/gsingh93/slim-display-manager) ![Freeware][Freeware Icon]
+- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - Gestor de inicio de sesión para X con soporte para XDMCP y selección de host. [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/xdm) ![Freeware][Freeware Icon]
 
-## Window Managers
+## Gestores de ventanas
 
-### Compositors
+### Compositores
 - [Compton](https://github.com/chjj/compton/wiki) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. [![Open-Source Software][OSS Icon]](https://github.com/chjj/compton) ![Freeware][Freeware Icon]
 - [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency. [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) ![Freeware][Freeware Icon]
 
-### Stacking window managers
-- [2bwm](https://github.com/venam/2bwm) - Fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
+### Gestores de ventanas superpuestos
+- [2bwm](https://github.com/venam/2bwm) - Gestor de ventanas flotante rápido que tiene la particularidad de tener dos bordes. Está escrito sobre XCB y es un derivado de mcwm. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
 - [Blackbox](http://blackboxwm.sourceforge.net) - Fast, lightweight window manager for the X Window System, without all those annoying library dependencies. [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) ![Freeware][Freeware Icon]
-- [Fluxbox](http://fluxbox.org) - Window manager for X that was based on the Blackbox 0.61.1 code. [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
-- [Openbox](http://openbox.org) - Highly configurable, next generation window manager with extensive standards support. [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) ![Freeware][Freeware Icon]
+- [Fluxbox](http://fluxbox.org) - Gestor de ventanas para X que está basado en el código de Blackbox 0.61.1. [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
+- [Openbox](http://openbox.org) - Gestor de ventanas de última generación. Es altamente configurable y extendible. [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) ![Freeware][Freeware Icon]
 
-### Tiling window managers
-- [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) ![Freeware][Freeware Icon]
-- [Herbstluftwm](https://herbstluftwm.org) - Manual tiling window manager for X11 using Xlib and Glib. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) ![Freeware][Freeware Icon]
-- [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) ![Freeware][Freeware Icon]
+### Gestores de ventanas tipo mosaico
+- [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm gestor de ventanas de tipo mosaico que representa las ventanas como si fueran hojas de un árbol. [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) ![Freeware][Freeware Icon]
+- [Herbstluftwm](https://herbstluftwm.org) - Gestor de ventanas de tipo mosaico manual que usa xlib y Glib. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) ![Freeware][Freeware Icon]
+- [Qtile](http://www.qtile.org/) - qtile es un gestor de ventanas de tipo mosaico completo y personalizable escrito en Python. [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) ![Freeware][Freeware Icon]
 
 ### Gestores de ventanas dinámicos
-- [awesome](https://awesome.naquadah.org) - Highly configurable, next generation framework window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
-- [dwm](http://dwm.suckless.org) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) ![Freeware][Freeware Icon]
-- [i3](https://i3wm.org) - Tiling window manager, completely written from scratch. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
-- [spectrwm](https://github.com/conformal/spectrwm/wiki) - Small dynamic tiling window manager for X11, largely inspired by xmonad and dwm. [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) ![Freeware][Freeware Icon]
-- [xmonad](http://xmonad.org) - Dynamically tiling X11 window manager that is written and configured in Haskell. [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
+- [awesome](https://awesome.naquadah.org) - Gestor de ventanas para X. Altamente configurable y de última generación. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
+- [dwm](http://dwm.suckless.org) - Gestor de ventanas dinámico para X. Gestiona las ventanas en modo mosaico, monóculo y flotante. [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) ![Freeware][Freeware Icon]
+- [i3](https://i3wm.org) - Gestor de ventanas de tipo mosaico, hecho completamente desde cero. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
+- [spectrwm](https://github.com/conformal/spectrwm/wiki) - Gestor de ventanas de tipo mosaico para X11, inspirado por dwm y xmonad. [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) ![Freeware][Freeware Icon]
+- [xmonad](http://xmonad.org) - Gestor de ventanas de tipo mosaico completamente escrito en Haskell. [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
 
-## Setup
+## Instalación
 
 - [Qué es Linux](https://www.linux.com/what-is-linux)
 - [Terminos básicos de Linux](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
@@ -724,20 +727,20 @@ firewall zones to define the trust level of network connections or interfaces. !
 
 ### CentOS
 
-- [Official website](https://www.centos.org)
-- [About](https://wiki.centos.org/About)
-- [Downloads](https://wiki.centos.org/Download)
-- [Manuals](https://www.centos.org/docs/)
-- [Tips and Tricks](https://wiki.centos.org/TipsAndTricks)
-- [FAQ](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
+- [Sitio oficial](https://www.centos.org)
+- [Acerca de](https://wiki.centos.org/About)
+- [Descargas](https://wiki.centos.org/Download)
+- [Manuales](https://www.centos.org/docs/)
+- [Trucos y consejos](https://wiki.centos.org/TipsAndTricks)
+- [Preguntas frequentes](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
 
 ### openSUSE
 
-- [What is openSUSE](https://www.techopedia.com/definition/28543/opensuse)
-- [Reason to try openSUSE](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
-- [Beginner's FAQ](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
-- [How to install openSUSE](https://en.opensuse.org/Portal:Installation)
-- [Review](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
+- [Qué es openSUSE](https://www.techopedia.com/definition/28543/opensuse)
+- [Razones por las que probar openSUSE](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
+- [Ayuda para novatos](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
+- [Cómo instalar openSUSE](https://en.opensuse.org/Portal:Installation)
+- [Reseña](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
 
 ### Ubuntu
 
@@ -832,7 +835,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Linux Kernel Mailing List Archive](https://lkml.org/)
 - [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
-## Contributors
+## Contribuidores
 
 [**Lista de contribuidores**](https://github.com/LewisVo/Awesome-Ubuntu-Linux/graphs/contributors) :
 
@@ -879,7 +882,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 
  (*La lista de arriba ha sido actulizada el 30 de Agosto de 2017.*)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Al principio](#table-of-contents)**
 
 
 <br>
